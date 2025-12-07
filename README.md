@@ -396,10 +396,7 @@ Keep it clear and professional. Mark assumptions with ⚠️.`
           </div>
         </div>
 
-        {/* Footer */}
-        <div className="text-center text-gray-600 text-sm">
-          <p>Powered by Claude AI • Clinical Research Assistant</p>
-        </div>
+
       </div>
     </div>
   );
